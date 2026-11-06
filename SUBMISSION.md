@@ -1,0 +1,1 @@
+A 401 Unauthorized error appears when a user attempts to access a protected API without proper authentication. However, when the user provides a valid token, the system responds with 200 OK and displays their account information. After logging out, the token is removed or revoked, meaning the user must log in again to access protected endpoints.
