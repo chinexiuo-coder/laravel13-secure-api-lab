@@ -1,8 +1,8 @@
 # Laboratory Activity: Building and Testing a Secure API with Laravel 13
 
-**Course:** Integrative Programming & Technologies II  
-**Module 5 — Lesson 1:** Secure API Design and Token-Based Authentication  
-**Framework:** Laravel 13 | **Database:** MySQL (WAMP or XAMPP) | **API authentication:** Laravel Sanctum  
+**Course:** Integrative Programming & Technologies II
+**Module 5 — Lesson 1:** Secure API Design and Token-Based Authentication
+**Framework:** Laravel 13 | **Database:** MySQL (WAMP or XAMPP) | **API authentication:** Laravel Sanctum
 **Testing tool:** Postman | **Submission:** GitHub repository URL + screenshots
 
 ## Learning outcomes
